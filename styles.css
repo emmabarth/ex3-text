@@ -1,0 +1,36 @@
+html {
+    background-color: #e6d6f3;
+    color: #54218c;
+    font-family: "Syne Mono", sans-serif;
+}
+
+.site-id {
+    color: #629aa9;
+    font-size: 48px;
+    line-height: 40px;
+    font-weight: 200;
+    font-family: "Climate Crisis", sans-serif;
+
+}
+
+.addy {
+    text-align: right;
+    font-size: 11px;
+    
+}
+
+.page-name {
+    font-weight: 200;
+    font-size: 36px;
+    font-family: "Climate Crisis", sans-serif;
+
+}
+
+.section-name {
+    font-size: 24px;
+    font-weight: 200;
+    font-family: "silkscreen-regular", sans-serif;
+
+}
+
+
